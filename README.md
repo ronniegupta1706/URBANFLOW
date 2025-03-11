@@ -1,4 +1,4 @@
-# UrbanFlow: Intelligent Traffic Prediction and Route Optimization  
+# UrbanFlow: Intelligent Traffic Prediction and Route Optimization. 
 
 ## Project Overview  
 UrbanFlow is a machine learning-based system designed to predict urban traffic congestion and optimize route planning using Long Short-Term Memory (LSTM) models for time-series forecasting and Graph Neural Networks (GNN) for road network analysis.  
